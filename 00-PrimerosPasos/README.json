@@ -1,7 +1,7 @@
 {
-  "lessonTitle": "Primeros Pasos",
+  "lessonTitle": "Primeros Pasos en Soy Henry",
   "feedbackID": "00-PrimerosPasos",
-  "permalink": "/Primeros_Pasos/",
+  "permalink": "/Primeros_Pasos de programacion/",
   "eleventyNavigation": {
     "key": "Primeros Pasos",
     "order": 2
